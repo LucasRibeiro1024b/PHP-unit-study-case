@@ -1,0 +1,15 @@
+{
+    "name": "lucas/phpunit",
+    "autoload": {
+        "psr-4": {
+            "Lucas\\Phpunit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ribeiro",
+            "email": "lucasribeiro1024b@gmail.com"
+        }
+    ],
+    "require": {}
+}
